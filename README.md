@@ -16,17 +16,19 @@ Data Scientist specializing in NLP and Computational Semantics. I also make musi
 </p>
 
 # Tools
-Data Preprocessing: NumPy, Pandas. 
+Data Preprocessing: NumPy, Pandas
 
-Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch. 
+Machine and Deep Learning Implementation Framework: Scikit-Learn, Tensorflow, Keras, PyTorch 
 
-Natural Language Processing: NLTK, BERT. Development: Python, Flask, Django, Git. 
+Natural Language Processing: NLTK, Spacy, BERT
 
-Data Visualization: Matplotlib, Tableau, Seaborn. 
+Development: Python, Flask, Django, Git
 
-Cloud Services: AWS, Google Colaboratory, Kaggle kernel. 
+Data Visualization: Matplotlib, PowerBI, Seaborn
 
-Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
+Cloud Services: AWS, Kaggle kernel
+
+Integrated Development Environment: Jupyter-Notebook, Sublime Text, VSCode
 
 
 # Jobs
