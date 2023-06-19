@@ -3,15 +3,15 @@
 
 ## 🙋‍♂️ About Me
 
-Data Scientist specializing in NLP and Computational Semantics. I also make music and paint sometimes if I feel like it.
+I'm Liam, an NYC-based Data Scientist with a focus on NLP and Computational Semantics. Beyond my expertise in the field, I have an unwavering passion for music, particularly jazz, and love for painting. I find joy in blending my analytical skills with my creative inclinations, seamlessly merging the realms of data science and artistic expression. This unique combination allows me to approach problem-solving with a fresh perspective, bringing a touch of inspiration to my work.
 
 ## 📚 Projects
-- Machine Translation
-  - Implemented machine translation seq2seq model using Keras
-- Text Summarization
-  - Implemented text summarization using encoder-decoder model in Keras
-- BERT Wrapper
-  - Created a wrapper for huggingface models to interact natively with Sklearn Pipelines for quick spinning up of powerful NLP models
+- [**Fake News Detector**](https://fake-news-b8e02d374446.herokuapp.com/)
+  - Web app built using Flask and deployed Heroku hosting a fine-tuned BERT model. Model was trained to > 99.9% accuracy on [this kaggle kernel](https://www.kaggle.com/code/liamgeron/99-9-accurate-news-classification-with-bert) using [this kaggle dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset). Project repository can be found [here](https://github.com/liamge/FakeNewsDetection).
+- NYC Community District Needs
+  - Tableau Viz and SQL queries of the annual requests that community districts in New York have.
+- Text Augmentation Toolkit (TATK)
+  - Created a python package for lightweight and powerful text augmentation techniques such as back translation, word-vector based synonym replacement, etc.
 - [CNN For Sentence Classification](https://github.com/liamge/CNNSentClassification)
   - Implemented a Convolutional Neural Network for sentence classification using Pytorch and wrapped it in a Sklearn estimator so I can use their great built in functions for cross validation and hyperparameter tuning.
 - [Recursive Neural Network](https://github.com/liamge/Pytorch_ReNN)
