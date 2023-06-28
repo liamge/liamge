@@ -28,11 +28,11 @@ I'm Liam, an NYC-based Data Scientist with a focus on NLP and Computational Sema
 </p>
 
 ## 🛠️ Tools
-Data Preprocessing: NumPy, Pandas
+Data Analytics: NumPy, Pandas, Scipy
 
-Machine and Deep Learning Frameworks: Scikit-Learn, Tensorflow, Keras, PyTorch 
+Machine and Deep Learning Frameworks: Scikit-Learn, Tensorflow, Keras, PyTorch, Huggingface
 
-Natural Language Processing: NLTK, Spacy, BERT
+Natural Language Processing: Spacy, NLTK, BERT
 
 Development: Python, Flask, Django, Git, Heroku
 
