@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm Liam, an NYC-based Data Scientist with a focus on NLP and Computational Semantics. Beyond my expertise in the field, I have an unwavering passion for music, particularly jazz, and love for painting. I find joy in blending my analytical skills with my creative inclinations, seamlessly merging the realms of data science and artistic expression. This unique combination allows me to approach problem-solving with a fresh perspective, bringing a touch of inspiration to my work.
+I'm Liam, an NYC-based Data Scientist with a focus on NLP and Computational Semantics.
 
 ## 📚 Projects
 - [**Fake News Detector**](https://fake-news-b8e02d374446.herokuapp.com/)
